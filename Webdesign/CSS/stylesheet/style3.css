@@ -1,0 +1,25 @@
+body {
+  background-color: #155263;
+}
+/* text prperty  */
+.para1 {
+    background-color: #ff9a3c;
+  /* text-align: justify , left ,center  */
+  text-align: justify;
+  color: #35312d;
+  height: 250px;
+  width: 360px;
+  word-spacing: 4%;
+  line-height: 1.3em;
+}
+
+.para2 {
+  background-color: #ccd2da;
+  color: ;
+
+  /* letter-specing this tells the space between the letters */
+  font-size: large;
+  letter-spacing: 9px;
+  font-weight: 600;
+  text-shadow: 2px 3px 4px purple;
+}
