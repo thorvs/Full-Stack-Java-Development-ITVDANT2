@@ -7,3 +7,6 @@ let name="vinay";
 let age="19"
 document.write(`my name is ${name} and age is ${age}`);
 
+let n = prompt("enter anything");
+alert(typeof n);
+
